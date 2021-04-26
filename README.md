@@ -45,3 +45,7 @@ Author
 
 Manuel Arturo Izquierdo <aizquier@gmail.com>
 
+
+Note
+----
+> for python2 versions add the ord(reply.data[0]) in line number 142 instead of reply.data[0]
